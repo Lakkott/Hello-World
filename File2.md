@@ -3,3 +3,5 @@ Editing after adding to gitignore.
 
 editing in new branch 3_2.
 
+editing after .gitignore.
+
